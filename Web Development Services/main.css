@@ -1,0 +1,93 @@
+body{
+ width:100%;
+ margin: 0 auto;
+ background:#e2dac2;
+}
+
+header{
+  margin: 0px;
+  color:white;
+  width:100%;
+  text-align:center;
+  color: #025c53;
+}
+
+h2{
+  text-align:center;
+  padding: 15px;
+	font-family: Arial, Gotham, "Helvetica Neue", Helvetica, "sans-serif";
+}
+
+h3{
+  background-color:#025c53;
+  text-align:center;
+  padding: 15px;
+	font-family: Arial, Gotham, "Helvetica Neue", Helvetica, "sans-serif";
+}
+
+form{
+  margin: 2% 0;
+	width: 100%;
+	margin: 0 auto;
+}
+
+label{
+  font-size:15px;
+  display: inline-block;
+  width:20%;
+  text-align:left;
+	font-family: Arial, Gotham, "Helvetica Neue", Helvetica, "sans-serif";
+}
+
+.leader_label {
+  width: 40%
+}
+
+.leader_input {
+  width: 40%
+}
+
+input, textarea, select{
+  width:60%;
+  margin:1% 0;
+  padding: 5px;
+	font-family: Arial, Gotham, "Helvetica Neue", Helvetica, "sans-serif";
+}
+
+textarea, input[type="date"]{
+  width:40%;
+}
+
+select{
+ width:42.4%;
+}
+
+.other{
+  width:40%;
+  text-align:left;
+}
+
+.font_white {
+	color: #fff;
+}
+
+div{
+ text-align: center;
+}
+
+.div_container {
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	padding-bottom: 25px;
+	margin-bottom: 25px;
+}
+
+.img_container {
+	margin-top: 25px;
+}
+
+#banner_design, #graphical_optimization, #gui_design{
+  display:none;
+}
